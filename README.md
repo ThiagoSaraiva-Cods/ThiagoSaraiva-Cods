@@ -20,11 +20,3 @@ Olá, seja bem vindo ao meu git!<br>
   <span><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></span>
 </div>
-
-
-
-
-Minhas Estatísticas	Principais Linguagens
-Umutambyi Gad's github stats	Top Languages
-
-  
