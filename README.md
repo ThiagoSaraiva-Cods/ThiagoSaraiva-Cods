@@ -6,7 +6,7 @@
 <h2>Olá, seja bem vindo ao meu perfil! </h2>
 
 <h2>O que eu faço</h2>
-Sou desenvolvedor font-end, atualmente trabalhando em uma empresa de software focado em entregar a melhor experiência de usuário possível, sempre visando a usuabilidade e responsividade das minhas aplicações.
+Sou Desenvolvedor Front-End, atualmente trabalhando em uma empresa de software focado em entregar a melhor experiência de usuário possível, sempre visando a usuabilidade e responsividade das minhas aplicações.
 
 <h2>Tecnologias que conheço</h2>
 <div>
